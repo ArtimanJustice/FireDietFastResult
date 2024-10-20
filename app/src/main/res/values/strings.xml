@@ -1,0 +1,22 @@
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">Fire Diet Fast Result</string>
+    <string name="add_calories">Add Calories</string>
+    <string name="calories">Calories</string>
+    <string name="add">Add</string>
+    <string name="reset_or_change_food">Reset or Change Food</string>
+    <string name="enter_new_food_value">Enter new food value</string>
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
+    <string name="calories_cd">Calories Screen</string>
+    <string name="add_calories_cd">Add Calories Screen</string>
+    <string name="recipes_cd">Recipes Screen</string>
+
+    <!-- New strings for CalorieGoalBlock -->
+    <string name="calorie_goal">Calorie Goal</string>
+
+    <!-- New strings for CaloriesBlock -->
+    <string name="base_goal_format">Base Goal: %1$d</string>
+    <string name="food_consumed_format">Food: %1$d</string>
+    <string name="remaining_calories_format">%1$d remaining</string>
+</resources>
