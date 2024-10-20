@@ -11,9 +11,11 @@
 
 ## 📸 Screenshots
 
-![3](https://github.com/user-attachments/assets/196c330b-888f-4aed-8cd0-80e8aff8dd34)
-![2](https://github.com/user-attachments/assets/d6ad8209-e188-48b8-b01e-2c3dd33c9328)
-![1](https://github.com/user-attachments/assets/98e5080c-9fcb-45d4-8b1c-06998f10bf95)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/196c330b-888f-4aed-8cd0-80e8aff8dd34" alt="1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d6ad8209-e188-48b8-b01e-2c3dd33c9328" alt="2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/98e5080c-9fcb-45d4-8b1c-06998f10bf95" alt="3" width="250"/>
+</div>
 
 ## 🚀 Tech Stack
 
